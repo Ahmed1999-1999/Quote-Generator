@@ -1,0 +1,28 @@
+main {
+  background-color: burlywood;
+}
+
+section{
+  background-color: blanchedalmond;
+  width: 85%;
+}
+
+h1 {
+  font-size: 5rem;
+  font-weight: 900;
+}
+
+.btn {
+  width: fit-content;
+  padding: 1.25rem 1.875rem;
+}
+
+p.qoute {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+p.qouteAuthor {
+  font-size: 1.25rem;
+  font-weight: 900;
+}
